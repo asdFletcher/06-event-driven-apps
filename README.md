@@ -1,9 +1,9 @@
-![CF](http://i.imgur.com/7v5ASc8.png) LAB
+![CF](http://i.imgur.com/7v5ASc8.png) LAB 6
 =================================================
 
-## Project Name
+## Event Driven Apps
 
-### Author: Student/Group Name
+### Author: Fletcher LaRue
 
 ### Links and Resources
 * [repo](http://xyz.com)
